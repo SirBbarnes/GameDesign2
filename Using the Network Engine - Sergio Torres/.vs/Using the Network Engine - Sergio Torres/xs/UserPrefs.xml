@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{864136D4-196E-9FB6-6869-DA17A89CD00E}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/NetPlayManager/Play_Manager_Control.cs">
+    <Files>
+      <File FileName="Assets/NetPlayManager/Play_Manager_Control.cs" Line="90" Column="1" />
+      <File FileName="Assets/Sphere/Sphere_Control.cs" Line="21" Column="10" />
+      <File FileName="Assets/NetworkEngine/NetworkComponent/NetworkComponent.cs" Line="38" Column="1" />
+      <File FileName="Assets/NetworkEngine/NetworkCore/NetworkCore.cs" Line="129" Column="71" />
+      <File FileName="Assets/NetworkEngine/NetworkID/NetworkID.cs" Line="142" Column="1" />
+      <File FileName="Assets/NetworkMenu/UI_Control.cs" />
+      <File FileName="Assets/NetworkEngine/NetworkConnection/NetworkConnection.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Using the Network Engine - Sergio Torres" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="beca1e4b-5d4f-4e66-869d-71637c6e61aa" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

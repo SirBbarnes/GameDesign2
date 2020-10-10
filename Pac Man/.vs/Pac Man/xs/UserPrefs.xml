@@ -1,0 +1,17 @@
+﻿<Properties StartupConfiguration="{EB7EFD00-3759-D988-40D4-0B73D2C4D142}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Bad Guy/Script/Bad_Guy_Movement.cs">
+    <Files>
+      <File FileName="Assets/Bad Guy/Script/Bad_Guy_Movement.cs" Line="41" Column="1" />
+      <File FileName="Assets/Bad Guy/Script/Bad_Guy_Atributes.cs" />
+      <File FileName="Assets/Player/Script/Player_Movement_Control.cs" Line="70" Column="1" />
+      <File FileName="Assets/NetworkEngine/NetworkID/NetworkID.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="421c5047-0fde-4ac1-bd92-e8d51199ae73" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
